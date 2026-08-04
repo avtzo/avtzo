@@ -1,6 +1,6 @@
 # Hi there, I'm Stef! 👋
 
-I'm a **19-year-old aspiring Software Engineer** from Greece, currently studying Web Development at SAEK (Year 1 completed, entering my final year). 
+I'm a **19-year-old aspiring Software Engineer** from Greece, currently studying Web Development at S.A.E.K. Kastorias (Year 1 completed, entering my final year). 
 
 I spend my daily time self-studying **Full-Stack Development**, building interactive JS projects, and mastering algorithms from the ground up.
 
@@ -8,7 +8,7 @@ I spend my daily time self-studying **Full-Stack Development**, building interac
 
 ### 🚀 What I'm Focused On
 * 💻 **Daily Coding:** Building logic-heavy web applications and casino games from scratch using Vanilla JS.
-* 🎓 **Academic:** Completing my 2nd year at SAEK focusing on modern web software.
+* 🎓 **Academic:** Completing my 2nd year at S.A.E.K. focusing on modern web software.
 * 🎯 **Career Goal:** Transitioning into a professional **Software Engineer** role.
 
 ---
@@ -20,15 +20,6 @@ I spend my daily time self-studying **Full-Stack Development**, building interac
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=avtzo&show_icons=true&theme=radial&hide_border=true" alt="Stef's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avtzo&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150"/>
-</p>
 
 ---
 
