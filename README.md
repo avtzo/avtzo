@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Stef! 👋
 
-<!--
-**avtzo/avtzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **19-year-old aspiring Software Engineer** from Greece, currently studying Web Development at SAEK (Year 1 completed, entering my final year). 
 
-Here are some ideas to get you started:
+I spend my daily time self-studying **Full-Stack Development**, building interactive JS projects, and mastering algorithms from the ground up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Focused On
+* 💻 **Daily Coding:** Building logic-heavy web applications and casino games from scratch using Vanilla JS.
+* 🎓 **Academic:** Completing my 2nd year at SAEK focusing on modern web software.
+* 🎯 **Career Goal:** Transitioning into a professional **Software Engineer** role.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=avtzo&show_icons=true&theme=radial&hide_border=true" alt="Stef's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avtzo&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+* 💼 **LinkedIn:** [Connect with me on LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/stefanos-a-983a933b5/))
