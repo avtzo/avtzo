@@ -24,4 +24,4 @@ I spend my daily time self-studying **Full-Stack Development**, building interac
 ---
 
 ### 📫 Connect with Me
-* 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanos-a-983a933b5/)
+* 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanos-avtzo/)
