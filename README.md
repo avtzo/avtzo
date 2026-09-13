@@ -7,7 +7,7 @@ I spend my daily time self-studying **Full-Stack Development**, building interac
 ---
 
 ### 🚀 What I'm Focused On
-* 💻 **Daily Coding:** Building logic-heavy web applications and casino games from scratch using Vanilla JS.
+* 💻 **Daily Coding:** Building logic-heavy web applications using Vanilla JS.
 * 🎓 **Academic:** Completing my 2nd year at S.A.E.K. Kastorias focusing on modern web software.
 * 🎯 **Career Goal:** Transitioning into a professional **Software Engineer** role.
 
